@@ -27,5 +27,8 @@
     <ClCompile Include="in_out.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="variable.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

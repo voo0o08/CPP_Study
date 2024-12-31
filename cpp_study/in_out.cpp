@@ -1,5 +1,5 @@
 #include <iostream>	
-
+/*
 int main()
 {
 	int age = 37;
@@ -9,4 +9,4 @@ int main()
 	std::cout << "my height is " << height;
 
 	return 0;
-}
+}*/
