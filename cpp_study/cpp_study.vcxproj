@@ -140,10 +140,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ex_namespace.cpp" />
+    <ClCompile Include="for_true.cpp" />
     <ClCompile Include="in_out.cpp" />
+    <ClCompile Include="for_loop.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="condition.cpp" />
     <ClCompile Include="test.c" />
     <ClCompile Include="variable.cpp" />
+    <ClCompile Include="array_study.cpp" />
+    <ClCompile Include="while1.cpp" />
+    <ClCompile Include="while2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
