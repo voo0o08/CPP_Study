@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ex_function.cpp" />
+    <ClCompile Include="ex_function2.cpp" />
     <ClCompile Include="ex_namespace.cpp" />
     <ClCompile Include="for_true.cpp" />
     <ClCompile Include="in_out.cpp" />
