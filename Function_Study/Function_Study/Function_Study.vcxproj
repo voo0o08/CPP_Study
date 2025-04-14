@@ -139,11 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="array.cpp" />
     <ClCompile Include="Comepile_Linking.cpp" />
+    <ClCompile Include="function_call.cpp" />
     <ClCompile Include="Log.cpp" />
+    <ClCompile Include="pass_by_reference.cpp" />
     <ClCompile Include="pass_by_val.cpp" />
     <ClCompile Include="prototypes_ex.cpp" />
     <ClCompile Include="Parameters.cpp" />
+    <ClCompile Include="default_val.cpp" />
+    <ClCompile Include="swap.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
