@@ -141,7 +141,9 @@
   <ItemGroup>
     <ClCompile Include="array.cpp" />
     <ClCompile Include="Comepile_Linking.cpp" />
+    <ClCompile Include="factorial.cpp" />
     <ClCompile Include="function_call.cpp" />
+    <ClCompile Include="inline.cpp" />
     <ClCompile Include="Log.cpp" />
     <ClCompile Include="pass_by_reference.cpp" />
     <ClCompile Include="pass_by_val.cpp" />

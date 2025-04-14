@@ -2,7 +2,7 @@
 
 void swap(int& a, int& b);
 
-int main()
+int main04140201()
 {
 	int x = 10, y = 20;
 	std::cout << x << " " << y << std::endl; // 10 20
